@@ -1,0 +1,11 @@
+name: "websitetest"
+navbar:
+  title: "Test"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "April2021"
+      href: April2021.html
+output_dir: "docs"
+output:
+  html_document:
