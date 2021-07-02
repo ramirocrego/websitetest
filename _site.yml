@@ -6,8 +6,6 @@ navbar:
       href: index.html
     - text: "April2021"
       href: April2021.html
-    - text: "May2021"
-      href: 
-output_dir: ""
+output_dir: "docs"
 output:
   html_document:
